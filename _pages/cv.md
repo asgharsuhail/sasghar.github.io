@@ -9,37 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
+You can download a PDF copy of my CV [here](/files/CV.pdf).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Civil Engineering**, Penn State University, 2023 – Present
+* **M.Tech. in Transportation Engineering**, National Institute of Technology, Warangal, 2019 – 2021
+* **B.Tech. in Civil Engineering**, Baba Ghulam Shah Badshah University, 2015 – 2019
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **2023 – Present: Graduate Teaching & Research Assistant**
+  * Penn State University, Department of Civil Engineering
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **2023: Graduate Teaching Assistant**
+  * Michigan Technological University, Department of Civil Engineering
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* **2022: Teaching Faculty**
+  * Model Institute of Technology, Department of Civil Engineering
+
+* **2021 – 2022: Research Intern**
+  * National Institute of Technology, Warangal, Transportation Engineering
+
+* **2020 – 2021: Teaching Assistant**
+  * National Institute of Technology, Warangal, Transportation Engineering
+
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming:** Python, R
+* **Macro/Microscopic Modeling:** VISUM, VISSIM, HCS
+* **Data Analysis:** SPSS, AMOS, Excel
+* **Econometric Modeling:** NLOGIT, GAUSS
+* **Data Visualization/Mapping:** Tableau, QGIS
+* **Survey Design/Deployment:** Qualtrics, CloudResearch
 
 Publications
 ======
@@ -58,7 +60,17 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Honors and Awards
 ======
-* Currently signed in to 43 different slack teams
+* **2024:** George A. Downs Endowed Graduate Fellowship, Penn State University ($12,000)
+* **2023:** George A. Downs Endowed Graduate Fellowship, Penn State University ($12,000)
+* **2019:** Graduate Aptitude Test in Engineering (GATE), National level eligibility test for scholarship in India
+
+Service and Leadership
+======
+* **2025:** Vice President, Graduate and Professional Student Council, Penn State University
+* **2024:** Volunteer, Global Ambassador, Penn State University
+* **2024:** Secretary, Graduate and Professional Student Council, Penn State University
+* **2018 – 2019:** Student Council Member, Baba Ghulam Shah Badshah University
+* **2018:** Coordinator, Placement Cell, Baba Ghulam Shah Badshah University
